@@ -26,11 +26,6 @@ try:
 except:
   pass
 
-# uname = 'ugadmin'
-# passwd = 'yd8m1pB934!'
-# port = 8728
-
-
 
 class Mapi:
     
