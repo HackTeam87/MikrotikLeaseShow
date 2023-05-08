@@ -1,4 +1,4 @@
-#!usr/bin/python3
+# -*- coding: utf-8 -*-
 import re
 import sys
 from pprint import pprint
